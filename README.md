@@ -35,3 +35,5 @@ Block DNS over HTTPS traffic
 #       Author: Jim Locker, jiml@justsosoftware.com
 #               August 2020
 #
+
+TODO:  This script does not catch ipv6 addresses.  Need to add that.
